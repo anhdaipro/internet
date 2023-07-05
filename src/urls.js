@@ -1,4 +1,4 @@
-const localhost = 'http://localhost:5000/api/v1'
+const localhost = 'https://internet-vu4x.onrender.com/api/v1'
 export const countryURL = `${localhost}/population/country`
 export const resultURL = `${localhost}/population/result`
 export const maxValueURL = `${localhost}/population/maxvalue`
