@@ -1,0 +1,12 @@
+@property --num {
+    syntax: "<integer>";
+    initial-value: 0;
+    inherits: false;
+  }
+  @property --colorPrimary {
+    syntax: "<color>";
+    initial-value: magenta;
+    inherits: false;
+  }
+ 
+  
